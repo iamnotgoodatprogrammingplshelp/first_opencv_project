@@ -50,4 +50,3 @@ emotion-motion-detector/
 - **Video Recording**: Optional recording of detection sessions
 - **Analytics Dashboard**: Visualize emotion and motion patterns over time
 - **REST API**: Query detection data programmatically
-- **Privacy Mode**: Blur faces while detecting emotions
